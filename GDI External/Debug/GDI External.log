@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(96,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(18): message : see declaration of 'Vector3'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(96,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(18): message : see declaration of 'Vector3'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(97,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(18): message : see declaration of 'Vector3'
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(158,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(173,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(173,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(209,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(209,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(210,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(210,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(271,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(271,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(271,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(271,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(272,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(272,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(282,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visualstudio projects\GDI External\GDI External\main.cpp(282,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GDI External.vcxproj -> C:\Visualstudio projects\GDI External\Debug\GDI External.exe
